@@ -1,0 +1,3 @@
+[submodule "VoidTogether-Server"]
+	path = VoidTogether-Server
+	url = https://github.com/VoidTogether/VoidTogether-Server.git
